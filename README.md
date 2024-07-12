@@ -169,6 +169,9 @@ git commit --amend: commit 메시지 수정하기
 
 >git 공식문서: https://git-scm.com
 
+# README.md
+- 프로젝트에 대한 설명, 사용 방법, 문서화된 정보 등을 포함하는 역할
+
 
 
 
